@@ -10,6 +10,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/exec)
 
 add_executable(LeetCode1 C++/Easy/1-TwoSumTarget.cpp)
+add_executable(LeetCode9 C++/Easy/9-PalindromeNumber.cpp)
 add_executable(LeetCode13 C++/Easy/13-RomanToInteger.cpp)
 
 add_executable(LeetCode2 C++/Medium/2-AddTwoNumbers.cpp)
