@@ -17,3 +17,4 @@ add_executable(LeetCode2 C++/Medium/2-AddTwoNumbers.cpp)
 add_executable(LeetCode3 C++/Medium/3-LongestSubstrWithNoRepeatingChars.cpp)
 
 add_executable(LeetCode4 C++/Hard/4-MedianTwoSortedArrays.cpp)
+add_executable(LeetCode10 C++/Hard/10-RegularExpressionMatching.cpp)
